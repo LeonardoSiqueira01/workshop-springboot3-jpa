@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.leonardoSiqueira.course.entities.User;
 import com.leonardoSiqueira.course.repositories.UserRepository;
 
-@Service
+@Service  //@componet - p/registrar componente     @repository - p/r repositorio  e @service - p/r serviço
 public class UserService {
 
 	@Autowired
