@@ -3,8 +3,6 @@ package com.leonardoSiqueira.course.entities.pk;
 import java.io.Serializable;
 import java.util.Objects;
 
-import org.hibernate.annotations.ManyToAny;
-
 import com.leonardoSiqueira.course.entities.Order;
 import com.leonardoSiqueira.course.entities.Product;
 
